@@ -1,4 +1,6 @@
 that is a handsome boy
 is me
-i am a boy
-you are a girl
+i am a boy<<<<<<< HEAD
+=======
+i am a boy ,i like girl
+>>>>>>> 8910df65baab20c6ebd21d0c9d66aea1c19a42c8
